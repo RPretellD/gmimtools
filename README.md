@@ -27,7 +27,7 @@ A detailed example on Jupyter Notebooks is presented [here](https://github.com/R
 
 
 ### Citation
-Please cite this software as:<br>
+If you use these codes, please cite:<br>
 Renmin Pretell. (2023). RPretellD/gmimtools: Initial release (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.10099774 <br>
 
 [![DOI](https://zenodo.org/badge/716446151.svg)](https://zenodo.org/doi/10.5281/zenodo.10099773)
