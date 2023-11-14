@@ -10,7 +10,6 @@ This repository provides a suite of ground motion intensity measure tools. These
 | get_Ia_times_cy | Ia_times     | Times to get to a Ia percentage                 |
 | get_CAV_cy      | CAV          | Cumulative absolute velocity                    |             
 | get_CAVn_cy     | CAVn         | CAV on accelerations after applying a cutoff    |
-| get_CAVgm_cy    | CAVgm        | CAV on accelerations after applying a cutoff    |
 | get_CAVstd_cy   | CAVstd       | Standardized CAV                                |
 | get_CAVdp_cy    | CAVdp        | Damage-potential CAV                            |
 
