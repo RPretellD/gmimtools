@@ -1,4 +1,4 @@
-# gmimtools: A suite of Ground Motion Intensity Measures (GMIM) tools
+# gmimtools: A suite of Ground Motion Intensity Measure (GMIM) tools
 
 This repository provides a suite of ground motion intensity measure tools. These tools include codes for computing the following ground motion intensity measures based on ground motion records: 
 
