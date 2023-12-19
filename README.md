@@ -1,4 +1,4 @@
-# Ground Motion Intensity Measures (GMIM) tools
+# gmimtools: A suite of Ground Motion Intensity Measures (GMIM) tools
 
 This repository provides a suite of ground motion intensity measure tools. These tools include codes for computing the following ground motion intensity measures based on ground motion records: 
 
@@ -27,7 +27,7 @@ A detailed example on Jupyter Notebooks is presented [here](https://github.com/R
 
 ## Citation
 If you use these codes, please cite:<br>
-Renmin Pretell. (2023). RPretellD/gmimtools: Initial release (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.10099774 <br>
+Pretell, R. (2023). gmimtools: A suite of ground motion intensity measure tools (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.10099774 <br>
 
 [![DOI](https://zenodo.org/badge/716446151.svg)](https://zenodo.org/doi/10.5281/zenodo.10099773)
 

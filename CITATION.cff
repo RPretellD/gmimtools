@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: Pretell
   given-names: Renmin
-orcid: https://orcid.org/0000-0001-8552-2905
-title:RPretellD/gmimtools: Initial release
+orcid: "https://orcid.org/0000-0001-8552-2905"
+title: "gmimtools: A suite of ground motion intensity measure tools"
 version: 0.1.0
-date-released: 2023-11-09       
+date-released: "2023-11-09"
